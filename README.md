@@ -1,16 +1,14 @@
-# movie_catalogue
+# Elemes Cinema
 
-A new Flutter project.
+A Flutter project for Elemes Group ID Technical Test.
 
-## Getting Started
+## Instalasi
 
-This project is a starting point for a Flutter application.
+1. Pastikan versi flutter anda sudah terinstal dengan versi terbaru. 
+  [flutter upgrade]
+  
+## Cara Penggunaan
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Run Aplikasi dengan menggunakan emulator atau Android Virtual Device pilihan anda.
+2. Ketika Aplikasi terbuka anda akan disuguhkan tampilah splash screen terlebih dahulu yang kemudian akan otomatis akan membawa anda menuju ke halaman main atau home.
+3. Pada halaman home, pilih kategori movie, tv show, people untuk melihat masing-masing daftar.
